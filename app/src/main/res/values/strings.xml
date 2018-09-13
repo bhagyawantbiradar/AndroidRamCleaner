@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Force Stopper</string>
+    <string name="perm_msg_enableAccessibility">To start force stopping the applications running in background you have to enable this permission\n\nThis app will not use the permission for any other purpose.</string>
 </resources>

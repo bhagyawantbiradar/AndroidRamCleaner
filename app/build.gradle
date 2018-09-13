@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "forcestopper.bhagyawant.com.forcestopper"
+        applicationId "com.bhagyawant.forcestopper"
         minSdkVersion 19
         targetSdkVersion 27
         versionCode 1
